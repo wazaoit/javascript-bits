@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add YOLOv8 LibTorch C++ inference example (#7090)
