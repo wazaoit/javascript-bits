@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
