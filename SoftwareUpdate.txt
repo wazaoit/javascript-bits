@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
