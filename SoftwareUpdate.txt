@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+OBB: Fix plot_images (#7592)
