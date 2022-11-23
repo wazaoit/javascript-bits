@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Add YOLOv8 LibTorch C++ inference example (#7090)
