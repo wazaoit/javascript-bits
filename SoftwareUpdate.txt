@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+docs: update view-results-in-terminal.md (#66)
