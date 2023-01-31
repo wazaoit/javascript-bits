@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Update CI.md with CI links (#8786)
