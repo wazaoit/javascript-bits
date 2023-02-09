@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+YOLOv8 INT8 TFLite Inference Example (#7317)
