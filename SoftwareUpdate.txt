@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
