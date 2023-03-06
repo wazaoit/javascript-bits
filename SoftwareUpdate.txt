@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
