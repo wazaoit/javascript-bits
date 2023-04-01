@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Add visuals in guides/distance-calculation.md (#7876)
