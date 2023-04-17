@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
