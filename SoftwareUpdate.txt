@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Avoid creating -hub dir without processing images (#8334)
