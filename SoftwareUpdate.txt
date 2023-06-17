@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
