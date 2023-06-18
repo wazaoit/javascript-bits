@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Replace onnx2tf usage from CLI to Python (#8429)
