@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add docs guide terminal images (#8819)
