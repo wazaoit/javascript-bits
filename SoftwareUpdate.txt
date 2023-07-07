@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Clean up unused imgsz (#7771)
