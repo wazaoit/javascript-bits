@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
