@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
