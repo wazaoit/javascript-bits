@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
