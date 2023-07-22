@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
