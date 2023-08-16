@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
