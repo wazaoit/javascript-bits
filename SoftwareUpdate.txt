@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Docs partial mdformat improvements (#7378)
