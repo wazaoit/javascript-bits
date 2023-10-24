@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Update the heatmap module code + docs (#7045)
