@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
