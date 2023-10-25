@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Auto-format by https://ultralytics.com/actions
