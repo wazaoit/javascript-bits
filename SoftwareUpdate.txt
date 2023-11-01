@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Resize angle, count, and stage on keypoint number change (#7598)
