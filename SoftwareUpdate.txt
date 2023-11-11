@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
