@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Allow Annotator PIL.Image inputs (#8397)
