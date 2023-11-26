@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
