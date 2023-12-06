@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
