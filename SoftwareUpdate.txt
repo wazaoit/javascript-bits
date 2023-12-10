@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
