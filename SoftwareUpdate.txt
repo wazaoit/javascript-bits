@@ -1,1 +1,1 @@
-ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
