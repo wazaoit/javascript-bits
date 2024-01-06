@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update CITATION.cff with cffinit corrections (#8658)
