@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add horizontal Mosaic3 augmentation (#6898)
