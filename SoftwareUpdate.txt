@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add C++ Classify inference example (#6868)
