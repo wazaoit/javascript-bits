@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
