@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
