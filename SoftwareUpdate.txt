@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Compare plt.get_backend() in lowercase (#8409)
