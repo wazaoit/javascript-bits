@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
