@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Auto-format by https://ultralytics.com/actions
